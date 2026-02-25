@@ -12,7 +12,7 @@ tags:
 
 ## Description
 
-基于 AIGoHotel MCP 的智能酒店搜索技能，开箱即用。
+基于 AIGoHotel MCP 的智能酒店搜索技能。
 
 ## Credentials
 
