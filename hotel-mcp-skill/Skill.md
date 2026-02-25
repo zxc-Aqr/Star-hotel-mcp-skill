@@ -77,9 +77,9 @@ originQuery 参数仅应包含酒店搜索意图，代理必须：
 
 ## Tools
 
-- `searchHotels`: 搜索酒店
-- `getHotelDetail`: 获取房型价格
-- `getHotelSearchTags`: 获取筛选标签
+- `search`: 搜索酒店
+- `detail`: 获取房型价格
+- `tags`: 获取筛选标签
 
 ## Usage Examples
 
