@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aigohotel-mcp": {
+      "url": "https://mcp.Starhotel.com/mcp",
+      "type": "http",
+      "headers": {
+        "Authorization": "Bearer mcp_a84000de01e04920b3690d173630f163"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "hotel-mcp",
+  "version": "1.0.0",
+  "description": "基于 Star Hotel MCP 的智能酒店搜索项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example:search": "node src/example-search.js",
+    "example:detail": "node src/example-detail.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxc-Aqr/Star-hotel-mcp-skill.git"
+  },
+  "keywords": [
+    "hotel",
+    "mcp",
+    "travel",
+    "booking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zxc-Aqr/Star-hotel-mcp-skill/issues"
+  },
+  "homepage": "https://github.com/zxc-Aqr/Star-hotel-mcp-skill#readme"
+}
