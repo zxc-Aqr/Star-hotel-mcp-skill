@@ -1,6 +1,13 @@
 ---
-name: "star-hotel"
-description: "Smart hotel search, supporting filtering by location, date, star rating, and budget. Invoke when user wants to search for hotels, book accommodations, or find hotel recommendations."
+slug: star-hotel
+name: Star Hotel Search
+version: 2.0
+description: Smart hotel search, supporting filtering by location, date, star rating, and budget
+author: your-name
+tags:
+  - hotel
+  - travel
+  - booking
 ---
 
 # Star Hotel Search
